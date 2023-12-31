@@ -1,0 +1,201 @@
+,rank,channel_info,influence_score,posts(k),followers(m),avg_likes(m),60_day_eng_rate,new_post_avg_like(m),total_likes(m),country
+0,1,cristiano,92,3.3,475.8,8.7,1.39,6.5,29000.0,Spain
+1,2,kyliejenner,91,6.9,366.2,8.3,1.62,5.9,57400.0,United States
+2,3,leomessi,90,0.89,357.3,6.8,1.24,4.4,6000.0,Other
+3,4,selenagomez,93,1.8,342.7,6.2,0.97,3.3,11500.0,United States
+4,5,therock,91,6.8,334.1,1.9,0.2,665.3,12500.0,United States
+5,6,kimkardashian,91,5.6,329.2,3.5,0.88,2.9,19900.0,United States
+6,7,arianagrande,92,5.0,327.7,3.7,1.2,3.9,18400.0,United States
+7,8,beyonce,92,2.0,272.8,3.6,0.76,2.0,7400.0,United States
+8,9,khloekardashian,89,4.1,268.3,2.4,0.35,926.9,9800.0,United States
+9,10,justinbieber,91,7.4,254.5,1.9,0.59,1.5,13900.0,Canada
+10,11,kendalljenner,90,0.66,254.0,5.5,2.04,5.1,3700.0,United States
+11,12,natgeo,91,10.0,237.0,302.2,0.07,159.3,3000.0,United States
+12,13,nike,90,0.95,234.1,329.0,0.08,181.8,313600.0,United States
+13,14,taylorswift,91,0.53,222.2,2.4,1.01,2.3,1300.0,United States
+14,15,jlo,89,3.2,220.4,1.7,0.62,1.4,5300.0,United States
+15,16,virat.kohli,87,1.4,211.8,3.5,0.96,2.0,4900.0,Other
+16,17,nickiminaj,90,6.4,201.6,2.1,0.53,1.0,13500.0,United States
+17,18,kourtneykardash,89,4.4,195.2,1.8,0.67,1.3,7700.0,United States
+18,19,mileycyrus,89,1.2,181.5,1.3,0.51,913.6,1600.0,Other
+19,20,neymarjr,90,5.3,177.1,2.7,1.09,1.9,14100.0,Brazil
+20,21,katyperry,92,2.0,170.3,715.0,0.16,265.1,1500.0,Other
+21,22,kevinhart4real,88,8.2,152.0,522.0,0.08,115.2,4300.0,United States
+22,23,zendaya,87,3.5,150.7,5.8,3.17,4.8,20600.0,United States
+23,24,iamcardib,75,1.6,140.5,3.1,1.1,1.5,5000.0,United States
+24,25,ddlovato,88,0.08,139.1,1.1,0.27,363.4,91300.0,United States
+25,26,badgalriri,88,4.8,135.3,3.7,0.02,,17900.0,United States
+26,27,kingjames,86,2.3,130.9,2.1,0.92,1.2,4900.0,Other
+27,28,theellenshow,87,10.0,125.1,420.5,0.07,81.7,4200.0,United States
+28,29,realmadrid,90,6.9,123.4,996.2,0.48,588.3,6800.0,Spain
+29,30,champagnepapi,85,5.2,119.6,1.7,1.1,1.3,9000.0,Netherlands
+30,31,chrisbrownofficial,86,7.3,118.5,463.2,0.22,255.9,3400.0,United States
+31,32,fcbarcelona,90,10.0,111.4,1.2,0.64,706.3,11600.0,Other
+32,33,billieeilish,73,0.69,105.2,8.5,5.02,5.2,5900.0,Other
+33,34,dualipa,74,1.3,85.9,2.1,1.26,1.1,2600.0,United Kingdom
+34,35,gal_gadot,85,1.7,85.6,1.4,0.69,586.5,2300.0,United States
+35,36,vindiesel,88,1.8,82.3,1.4,0.6,482.3,2500.0,United States
+36,37,nasa,88,3.6,81.3,1.2,1.53,1.2,4200.0,United States
+37,38,priyankachopra,85,3.6,81.1,1.6,1.0,802.9,5600.0,United States
+38,39,lalalalisa_m,70,0.87,80.9,5.8,9.0,7.2,5100.0,Other
+39,40,Shakira,88,2.0,76.1,975.1,0.41,304.7,1900.0,Other
+40,41,snoopdogg,86,10.0,75.3,203.7,0.17,125.8,2000.0,Other
+41,42,gigihadid,85,3.3,75.3,2.5,2.56,1.9,8200.0,United States
+42,43,davidbeckham,86,1.5,74.9,1.2,0.46,340.9,1900.0,United States
+43,44,shraddhakapoor,81,1.9,73.9,1.6,1.17,859.9,3000.0,Other
+44,45,victoriassecret,88,2.9,73.2,147.0,0.04,29.8,423500.0,United States
+45,46,k.mbappe,86,1.2,72.7,2.5,2.16,1.6,2800.0,Other
+46,47,nehakakkar,84,2.3,70.4,1.5,0.54,370.1,3500.0,India
+47,48,nba,87,12.9,70.1,370.8,0.28,196.9,4800.0,United States
+48,49,shawnmendes,83,2.5,69.9,3.5,2.87,2.0,8800.0,Canada
+49,50,jennierubyjane,76,0.86,68.9,5.1,8.36,5.7,4400.0,Other
+50,51,narendramodi,85,0.54,68.9,2.9,3.01,2.0,1600.0,India
+51,52,aliaabhatt,82,1.8,68.7,1.8,3.14,2.1,3300.0,India
+52,53,deepikapadukone,83,0.26,68.4,1.6,2.23,1.5,419000.0,India
+53,54,tomholland2013,77,1.2,67.7,5.4,10.83,7.3,6600.0,Other
+54,55,ronaldinho,78,2.9,67.7,872.9,0.49,325.7,2600.0,Brazil
+55,56,emmawatson,87,0.34,67.3,1.9,0.01,,639000.0,United States
+56,57,bts.bighitofficial,78,1.2,66.9,4.1,5.4,3.6,4900.0,Uruguay
+57,58,katrinakaif,85,1.0,66.3,1.7,2.25,1.5,1700.0,India
+58,59,marvel,82,7.0,66.2,332.3,0.51,339.0,2300.0,Turkey
+59,60,justintimberlake,87,0.78,65.9,600.4,0.3,189.4,470700.0,United States
+60,61,camila_cabello,77,2.9,65.0,1.9,2.19,1.4,5400.0,United States
+61,62,willsmith,82,1.4,63.9,1.4,0.02,,1900.0,United States
+62,63,raffinagita1717,83,17.5,63.5,386.9,0.58,366.6,6800.0,Indonesia
+63,64,anitta,82,5.1,63.1,855.5,0.69,426.2,4400.0,United States
+64,65,sooyaaa__,82,0.83,62.9,4.5,9.43,5.9,3800.0,Other
+65,66,maluma,84,8.2,62.8,1.2,1.12,696.3,9800.0,Colombia
+66,67,akshaykumar,85,1.9,62.8,1.5,1.01,624.9,2900.0,Other
+67,68,jacquelinef143,85,2.4,62.7,1.1,1.15,718.8,2800.0,India
+68,69,psg,86,10.0,61.9,500.5,0.52,322.2,5000.0,France
+69,70,roses_are_rosie,82,0.82,61.8,4.6,9.72,6.0,3800.0,Other
+70,71,manchesterunited,85,9.9,59.6,381.8,0.41,241.6,3800.0,United Kingdom
+71,72,anushkasharma,85,1.2,59.5,1.9,2.34,1.4,2200.0,Other
+72,73,whinderssonnunes,79,2.7,58.7,1.6,0.58,323.1,4400.0,Brazil
+73,74,9gag,86,10.0,58.1,672.6,0.44,248.6,6700.0,United States
+74,75,marcelotwelve,86,2.7,58.1,690.9,0.78,448.3,1900.0,Brazil
+75,76,milliebobbybrown,80,0.28,57.6,4.0,8.63,5.0,1100.0,United States
+76,77,karimbenzema,42,2.0,56.9,878.5,1.62,918.9,1800.0,Spain
+77,78,chrishemsworth,86,0.88,55.9,2.8,3.69,2.1,2500.0,Australia
+78,79,karolg,83,3.3,55.6,3.1,10.25,5.7,10100.0,India
+79,80,paulpogba,80,1.3,55.2,1.4,0.85,462.6,1800.0,France
+80,81,iamzlatanibrahimovic,86,0.87,55.1,1.5,1.53,837.1,1300.0,Other
+81,82,leonardodicaprio,86,1.7,54.6,395.5,0.2,107.6,669300.0,Other
+82,83,juventus,87,10.0,54.5,194.8,0.25,135.5,1900.0,Other
+83,84,zacefron,86,0.66,54.5,2.3,8.18,4.4,1500.0,United States
+84,85,bellahadid,79,3.2,54.1,1.1,2.06,1.1,3600.0,United Kingdom
+85,86,tatawerneck,86,5.6,53.9,959.8,0.51,266.5,5400.0,Brazil
+86,87,beingsalmankhan,76,1.2,53.5,1.4,1.33,693.9,1600.0,India
+87,88,robertdowneyjr,86,0.42,53.4,3.0,2.05,1.1,1300.0,United States
+88,89,sunnyleone,84,4.6,53.4,764.0,0.57,301.3,3500.0,Other
+89,90,ladygaga,83,3.6,53.2,1.4,1.02,531.6,5100.0,United States
+90,91,dishapatani,74,2.1,53.0,1.6,1.85,971.7,3400.0,United States
+91,92,sergioramos,87,2.2,52.8,1.1,1.06,557.9,2500.0,Other
+92,93,jbalvin,87,10.0,52.8,878.0,0.66,340.5,8800.0,Other
+93,94,mosalah,22,0.84,52.5,1.8,2.18,1.1,1500.0,Other
+94,95,ayutingting92,85,10.0,52.4,147.3,0.11,56.3,1500.0,Indonesia
+95,96,433,79,10.3,51.2,863.2,1.52,774.2,8900.0,Netherlands
+96,97,hudabeauty,82,2.4,50.8,186.4,0.04,16.8,453600.0,United States
+97,98,adele,84,0.42,50.7,4.7,3.82,1.9,2000.0,United States
+98,99,michelleobama,85,0.6,50.7,700.5,1.22,611.2,421700.0,Other
+99,100,kritisanon,76,2.7,50.2,897.2,1.21,604.4,2400.0,India
+100,101,jamesrodriguez10,86,1.1,49.9,1.4,0.75,363.9,1500.0,Colombia
+101,102,krisjenner,80,6.4,49.7,356.8,0.91,452.9,2300.0,United States
+102,103,thv,83,0.06,49.3,15.4,25.8,12.6,987400.0,Other
+103,104,lelepons,81,2.5,49.2,2.4,3.55,1.7,6100.0,United States
+104,105,charlidamelio,80,0.15,49.1,4.2,3.28,1.6,654400.0,Other
+105,106,gucci,86,8.9,49.0,115.1,0.15,72.4,1000.0,Italy
+106,107,prillylatuconsina96,84,6.5,48.9,372.4,0.27,131.8,2400.0,Indonesia
+107,108,louisvuitton,82,6.5,48.7,127.5,0.08,40.5,824000.0,France
+108,109,paulodybala,85,1.3,48.3,1.8,2.88,1.4,2300.0,Other
+109,110,blackpinkofficial,85,1.4,48.2,2.1,2.77,1.3,3000.0,Other
+110,111,dovecameron,85,0.17,48.2,1.6,1.75,841.4,283000.0,United States
+111,112,garethbale11,86,0.98,48.1,763.0,1.43,681.3,753100.0,Other
+112,113,jokowi,85,3.5,47.7,452.6,0.41,189.6,1600.0,Other
+113,114,nusr_et,81,2.3,47.3,728.2,0.29,133.0,1700.0,United Arab Emirates
+114,115,harrystyles,57,0.59,46.9,4.7,6.38,2.9,2800.0,United States
+115,116,haileybieber,85,2.1,46.9,2.0,3.47,1.6,4200.0,Other
+116,117,vanessahudgens,84,4.2,46.8,633.9,0.63,292.9,2700.0,United States
+117,118,5-Minute Crafts GIRLY,85,10.0,46.5,157.0,0.03,12.4,1600.0,United States
+118,119,zayn,82,0.16,46.5,4.7,8.81,4.0,773500.0,United States
+119,120,larissamanoela,85,5.2,46.5,579.6,0.57,259.4,3000.0,Brazil
+120,121,travisscott,78,3.2,46.2,3.0,5.71,2.6,9600.0,United States
+121,122,thenotoriousmma,82,3.2,45.9,1.1,0.69,311.5,3500.0,United States
+122,123,daddyyankee,80,0.02,45.9,652.5,1.0,455.3,18300.0,Puerto Rico
+123,124,natgeotravel,82,16.9,45.8,189.9,0.12,52.8,3200.0,United States
+124,125,nikefootball,85,1.8,45.4,431.2,0.44,199.8,784000.0,United States
+125,126,stephencurry30,84,1.1,45.4,1.1,2.76,1.2,1200.0,Other
+126,127,vancityreynolds,86,0.68,44.8,1.4,2.61,1.2,925700.0,Other
+127,128,maisa,42,1.5,44.5,553.0,0.67,294.1,820100.0,Brazil
+128,129,luissuarez9,85,0.97,44.2,801.8,0.96,414.8,782500.0,Other
+129,130,gusttavolima,76,4.9,43.9,475.1,0.71,303.9,2300.0,Brazil
+130,131,jannatzubair29,84,1.6,43.8,1.3,2.18,944.3,2200.0,Other
+131,132,varundvn,84,1.9,43.8,1.1,1.48,640.5,2000.0,India
+132,133,hrithikroshan,85,0.58,43.7,1.6,3.82,1.6,949900.0,CÃ´te d'Ivoire
+133,134,nickyjampr,81,10.0,43.4,381.6,0.33,139.3,3800.0,Colombia
+134,135,buzzfeedtasty,85,8.9,43.2,65.1,0.02,7.7,580700.0,Spain
+135,136,brunamarquezine,84,3.0,43.1,969.7,1.05,444.2,2900.0,United States
+136,137,caradelevingne,86,4.4,42.9,790.2,0.43,181.0,3500.0,United States
+137,138,kapilsharma,83,0.95,42.2,736.4,1.49,624.5,710700.0,Other
+138,139,badbunnypr,83,0.01,42.1,3.7,13.09,5.4,67500.0,Other
+139,140,britneyspears,80,3.0,42.1,513.1,0.55,221.7,1600.0,Turkey
+140,141,j.m,83,0.02,41.9,14.2,26.41,11.0,368100.0,Other
+141,142,mariliamendoncacantora,73,1.4,41.8,1.0,1.98,818.6,1500.0,Brazil
+142,143,norafatehi,83,1.7,41.6,1.4,1.76,727.5,2300.0,Anguilla
+143,144,theweeknd,83,0.67,41.5,1.1,3.97,1.6,767000.0,Other
+144,145,dior,85,9.7,41.5,88.8,0.16,63.6,863000.0,Other
+145,146,ranveersingh,85,1.8,40.8,1.0,0.76,299.3,1800.0,Switzerland
+146,147,marinaruybarbosa,81,2.1,40.7,586.4,0.01,,1200.0,Brazil
+147,148,jenniferaniston,85,0.09,40.7,4.6,1.88,731.0,452000.0,Other
+148,149,addisonraee,85,0.3,40.1,3.1,2.49,994.4,957900.0,Other
+149,150,andresiniesta8,85,2.0,40.0,250.8,0.41,161.7,500500.0,Spain
+150,151,princessyahrini,81,4.5,40.0,118.3,0.22,87.4,529900.0,Indonesia
+151,152,liverpoolfc,75,10.0,39.9,346.7,0.42,162.9,3500.0,United Kingdom
+152,153,teddysphotos,80,2.3,39.9,715.5,0.46,181.1,1700.0,United States
+153,154,worldstar,78,11.6,39.2,157.4,0.23,84.4,1800.0,United States
+154,155,natashawilona12,84,1.2,39.2,486.5,0.59,227.7,563900.0,Other
+155,156,mahi7781,58,0.1,39.1,4.1,0.17,,439400.0,Other
+156,157,georginagio,74,0.73,39.1,2.2,8.56,3.3,1600.0,Other
+157,158,cznburak,80,1.8,39.0,815.8,1.01,383.3,1400.0,Other
+158,159,chrissyteigen,79,5.1,38.9,623.1,0.43,162.1,3200.0,United States
+159,160,ruben_onsu,75,13.4,38.8,139.3,0.13,49.1,1900.0,Indonesia
+160,161,wizkhalifa,80,0.5,38.7,398.7,0.31,115.7,199800.0,United States
+161,162,hm,83,7.3,38.5,88.4,0.06,22.4,644100.0,Sweden
+162,163,anushkasen0408,85,5.3,38.3,695.4,1.75,658.3,3700.0,Other
+163,164,prattprattpratt,84,0.73,38.3,813.5,1.0,363.8,594700.0,Other
+164,165,marvelstudios,83,2.7,38.1,594.2,1.58,555.9,1600.0,Other
+165,166,wesleysafadao,80,8.9,37.4,256.1,0.02,,2300.0,Other
+166,167,parineetichopra,84,1.3,37.4,505.7,0.68,246.9,672100.0,Other
+167,168,rkive,83,0.11,37.0,10.9,,,1200.0,Other
+168,169,laudyacynthiabella,76,0.38,36.9,172.8,0.12,43.4,66700.0,Indonesia
+169,170,antogriezmann,83,0.87,36.5,1.1,0.57,203.6,955400.0,France
+170,171,gisel_la,85,9.9,36.5,150.5,0.1,33.4,1500.0,Other
+171,172,eminem,84,0.66,36.4,1.1,2.69,962.7,730100.0,United States
+172,173,mercedesbenz,77,10.0,36.0,197.9,0.18,64.6,2000.0,British Virgin Islands
+173,174,colesprouse,81,1.2,35.9,2.2,2.34,834.5,2600.0,Other
+174,175,nattinatasha,47,0.03,35.9,518.1,0.8,285.9,18700.0,Czech Republic
+175,176,shahidkapoor,82,1.1,35.6,1.3,2.54,780.0,1500.0,Other
+176,177,tigerjackieshroff,83,2.1,35.6,1.1,1.2,422.9,2200.0,India
+177,178,kimberly.loaiza,78,0.59,35.5,2.6,5.23,1.8,1600.0,Mexico
+178,179,barackobama,81,0.66,35.4,1.1,1.19,411.5,739500.0,United States
+179,180,sachintendulkar,76,1.0,35.3,800.4,2.03,664.5,810000.0,Other
+180,181,simonemendes,72,4.4,35.0,420.0,0.65,222.9,1900.0,Brazil
+181,182,ivetesangalo,84,7.6,34.8,226.4,0.36,121.1,1700.0,Brazil
+182,183,lunamaya,83,4.1,34.8,145.4,0.17,58.6,589600.0,Other
+183,184,toni.kr8s,83,0.94,34.7,597.2,1.68,533.5,561300.0,Other
+184,185,dannapaola,68,1.9,34.7,1.5,3.49,1.2,2800.0,Mexico
+185,186,paollaoliveirareal,84,4.6,34.7,367.8,0.57,192.3,1700.0,Other
+186,187,blakelively,80,0.11,34.6,3.1,0.02,,350900.0,United States
+187,188,adidasoriginals,83,0.15,34.2,136.2,0.2,66.8,21200.0,Other
+188,189,disney,77,7.3,34.2,185.2,0.44,132.0,1400.0,United States
+189,190,shaymitchell,83,6.3,34.1,732.4,0.73,247.5,4600.0,United States
+190,191,bmw,79,9.3,33.7,231.3,0.23,76.5,2200.0,Germany
+191,192,danbilzerian,84,1.4,33.6,2.0,3.58,1.2,2800.0,Canada
+192,193,khabib_nurmagomedov,63,4.5,33.5,685.1,0.67,220.7,3100.0,Russia
+193,194,zidane,41,0.37,33.5,1.1,1.61,532.7,391900.0,France
+194,195,sonamkapoor,75,4.8,33.3,264.7,0.63,209.2,1300.0,India
+195,196,iambeckyg,71,2.3,33.2,623.8,1.4,464.7,1400.0,United States
+196,197,nancyajram,81,3.8,33.2,390.4,0.64,208.0,1500.0,France
+197,198,luansantana,79,0.77,33.2,193.3,0.26,82.6,149200.0,Brazil
+198,199,nickjonas,78,2.3,33.0,719.6,1.42,467.7,1700.0,United States
+199,200,raisa6690,80,4.2,32.8,232.2,0.3,97.4,969100.0,Indonesia
